@@ -1,0 +1,20 @@
+{
+    "name": "pc/bibliothque",
+    "autoload": {
+        "psr-4": {
+            "biblio\\Entity\\": "src/Entity/",
+            "biblio\\Repository\\": "src/Repository/",
+            "biblio\\Controller\\": "src/Controller/",
+            "Core\\DB\\": "Core/DB/",
+            "Core\\Routing\\": "Core/Routing/",
+            "Core\\View\\": "Core/View/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibtissam1922",
+            "email": "ibtissamaitlbaz54@gmail.com"
+        }
+    ],
+    "require": {}
+}
